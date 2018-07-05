@@ -1,0 +1,5 @@
+CREATE TABLE `sak_erp`.`asys_db_table` (
+  `tble_id` INT NOT NULL COMMENT 'Primary Key',
+  PRIMARY KEY (`tble_id`))
+ENGINE = InnoDB
+COMMENT = 'Table Details';
